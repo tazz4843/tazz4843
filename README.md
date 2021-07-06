@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**tazz4843/tazz4843** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm tazz4843, but you might know me as 0/0 or ImASkeleton.
 
-Here are some ideas to get you started:
+- 📫 How to reach me: 0/0#0001 on Discord or `zero@imaskeleton.me`.
+- 😄 Pronouns: he/him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Overall Stats
+![](https://github-readme-stats.vercel.app/api/wakatime?username=tazz4843)
+
+### Top Languages
+As you can see, Rust is by far my top language. Python used to be #1 but that's since changed.
+![](https://github-readme-stats.vercel.app/api/top-langs?username=tazz4843&langs_count=10)
+
+### Code Stats
+![](https://wakatime.com/share/@tazz4843/c2be12de-ee5a-4fc9-a405-0e217fa01358.svg)
+![](https://wakatime.com/share/@tazz4843/079557fb-869b-4126-a65f-c10c37f26ac5.svg)
