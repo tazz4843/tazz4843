@@ -6,7 +6,7 @@ I'm tazz4843, but you might know me as 0/0 or ImASkeleton.
 - 😄 Pronouns: he/him
 
 ### Overall Stats
-![](https://github-readme-stats.vercel.app/api/wakatime?username=tazz4843)
+![](https://github-readme-stats.vercel.app/api?username=tazz4843&count_private=true)
 
 ### Top Languages
 As you can see, Rust is by far my top language. Python used to be #1 but that's since changed.
