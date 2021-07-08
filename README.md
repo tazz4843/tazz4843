@@ -13,5 +13,7 @@ As you can see, Rust is by far my top language. Python used to be #1 but that's 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=tazz4843&langs_count=10)
 
+![](https://github-readme-stats.vercel.app/api/wakatime?username=tazz4843&compact=true)
+
 ### Contact
 [![](https://img.shields.io/discord/675390855716274216?color=7289da&label=discord%20chat&logo=discord&logoColor=7289da&style=flat-square)](https://url.imaskeleton.me/discord)
