@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=tazz4843&style=flat-square)
+
 I'm tazz4843, but you might know me as 0/0 or ImASkeleton.
 
 - 📫 How to reach me: 0/0#0001 on Discord or `zero@imaskeleton.me`.
