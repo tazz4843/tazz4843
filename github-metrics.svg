@@ -585,7 +585,7 @@ they/them</div>
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 430k out of 82m users</span>
+                                    <span class="gh">ranked 430k out of 83m users</span>
                                 </div>
                                 <div class="text">Published 50 public repositories</div>
                             </div>
@@ -886,7 +886,7 @@ they/them</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 422k out of 82m users</span>
+                                    <span class="gh">ranked 422k out of 83m users</span>
                                 </div>
                                 <div class="text">Followed by 19 users</div>
                             </div>
@@ -1191,7 +1191,7 @@ they/them</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Jan 2022, 23:12:40 (timezone America/Edmonton) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 6 Jan 2022, 00:10:27 (timezone America/Edmonton) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
