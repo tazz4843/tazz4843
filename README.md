@@ -2,16 +2,16 @@
 
 ![](https://komarev.com/ghpvc/?username=tazz4843&style=flat-square)
 
-I'm tazz4843, but you might know me as 0/0 or ImASkeleton.
+i'm zero
 
-- 📫 How to reach me: 0/0#0001 on Discord or `zero@imaskeleton.me`.
-- 😄 Pronouns: they/them
+i write code ig
 
-### Overall Stats
+go check out my site for more info https://zero.lgbt
+
 ![Metrics](https://github.com/tazz4843/tazz4843/blob/main/github-metrics.svg)
 
-### Streaks
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=tazz4843)
+also maybe go check out my boyfriend's stuff too
 
-### Contact
-[![](https://img.shields.io/discord/675390855716274216?color=7289da&label=discord%20chat&logo=discord&logoColor=7289da&style=flat-square)](https://url.imaskeleton.me/discord)
+https://github.com/randomairborne
+
+https://randomairborne.dev
