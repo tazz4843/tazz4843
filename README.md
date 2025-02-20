@@ -2,16 +2,14 @@
 
 ![](https://komarev.com/ghpvc/?username=tazz4843&style=flat-square)
 
-i'm zero (they/them)
+i'm niko (she/they)
 
 i write code mainly in rust
 
-go check out my site for more info about me/contact/etc https://zero.lgbt
+feel free to poke me for things if you need help
+
+go check out my site for more info about me/contact/etc https://niko.lgbt
 
 ![Metrics](https://github.com/tazz4843/tazz4843/blob/main/github-metrics.svg)
 
-also maybe go check out my boyfriend's stuff too
-
-https://github.com/randomairborne
-
-https://randomairborne.dev
+meow :3 
